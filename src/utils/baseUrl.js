@@ -1,0 +1,1 @@
+export const baseURl = 'https://api-teste-cotabox.vercel.app/api';

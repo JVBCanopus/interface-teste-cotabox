@@ -1,0 +1,39 @@
+.table {
+  outline: 1px solid #000;
+  height: fit-content;
+}
+
+.table th {
+  text-align: start;
+  padding: .3rem;
+  width: 9rem;
+  height: 2rem;
+  /* min-height: 1rem; */
+}
+
+.table td {
+  height: 2rem;
+  outline: 1px solid #000;
+  padding: .3rem;
+}
+/* 
+.table {
+
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem
+}
+
+.data {
+  width: 100%;
+  text-align: center;
+} */
